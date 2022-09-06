@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thavindu Ushan</h1>
-<h3 align="center">a passionate learner who is looking for challenges!</h3>
+<h3 align="center">A passionate learner who is looking for challenges!</h3>
 
 - 🌱 I’m currently learning about **Microservices and Cloud computing**
 
